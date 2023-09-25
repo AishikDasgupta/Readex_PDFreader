@@ -41,6 +41,7 @@ Detailed documentation on how to use ReadEx and its API can be found [here](docs
 ## 🤝 Contributing
 
 We welcome contributions from the community. If you'd like to enhance ReadEx or report issues, please check our [Contribution Guidelines](CONTRIBUTING.md).
+Special thanks to Nandini Dutta.
 
 ## 📄 License
 
