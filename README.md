@@ -41,7 +41,7 @@ Detailed documentation on how to use ReadEx and its API can be found [here](docs
 ## 🤝 Contributing
 
 We welcome contributions from the community. If you'd like to enhance ReadEx or report issues, please check our [Contribution Guidelines](CONTRIBUTING.md).
-Special thanks to Nandini Dutta.
+Special thanks to all module creators and OpenAI.
 
 ## 📄 License
 
@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For any questions or support, feel free to reach out to us at [contact@readex.ai](mailto:contact@readex.ai).
+For any questions or support, feel free to reach out to us at [itsdg19@gmail.com](mailto:itsdg19@gmail.com).
 
 ## 🌟 Acknowledgments
 
